@@ -1,1 +1,2 @@
 My second repo!
+I am very eager to learn git asap.
